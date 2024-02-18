@@ -38,4 +38,14 @@ fun main() {
     }
 
     println(y)
+
+    // neste caso é possível fazer outros tipos de testes, como intervalos e comparações
+    val v1 = 10
+    when {
+        v1 > 0 -> {
+            println("POSITIVO")
+        }
+        v1 < 0 -> println("NEGATIVO")
+        else   -> println("ZERO")
+    }
 }
