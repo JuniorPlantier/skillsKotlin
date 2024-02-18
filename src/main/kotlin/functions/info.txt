@@ -1,0 +1,17 @@
+    Funções
+Servem para agrupar código e permitem reaproveitar esse código.
+
+convenção: começam com letra minúscula e em seguida camelCase assim como o nome da variável e propriedades.
+A função main() é o ponto de entrada.
+
+Assinatura:
+[visibilidade] fun nomeDaFUncao([parametros]) [: tipoRetorno] {
+
+}
+
+	visibilidade
+por padrão, todas as funções são top level functions ou seja públicas
+    isso significa que vc pode utilizar em outros arquivos.
+private, garante que apenas o arquivo onde a função está escrita pode ter o acesso.
+Ela é privada para dentro do arquivo onde foi definida.
+
