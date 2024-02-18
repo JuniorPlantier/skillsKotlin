@@ -12,7 +12,7 @@ fun main() {
 
     var n: Int = 10
     n = 20
-    n = null // Não é permitido
+    //n = null // Não é permitido
 
     var x: Int? = 10
     x = 20
