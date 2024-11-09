@@ -13,7 +13,9 @@ fun main() {
 
     println(dogs)
 }
-
+/* ddddd
+*
+* */
 data class Dog(val name: String) {
     override fun toString() = "Dog(name=$name, hashCode=${hashCode()})"
 
