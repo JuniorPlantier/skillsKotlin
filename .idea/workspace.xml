@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea5b5a6-a135-4604-9769-1912196120e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/hashCodeAndEquals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/collections/hashCodeAndEquals.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/IdeaProjects/skillsKotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExAccessKt">
+  <component name="RunManager" selected="Kotlin.ExKt">
+    <configuration name="App1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.App1Kt" />
+      <module name="skillsKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculadoraKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selection.CalculadoraKt" />
       <module name="skillsKotlin.main" />
@@ -80,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.ExKt" />
+      <module name="skillsKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MonthKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enums.MonthKt" />
       <module name="skillsKotlin.main" />
@@ -89,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExKt" />
+        <item itemvalue="Kotlin.App1Kt" />
         <item itemvalue="Kotlin.ExAccessKt" />
         <item itemvalue="Kotlin.MonthKt" />
         <item itemvalue="Kotlin.CalculadoraKt" />
