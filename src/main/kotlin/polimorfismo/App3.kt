@@ -8,7 +8,7 @@ fun main() {
         a.run()
         val b = a as Dog
     }
-    
+
 }
 
 open class Animal() {
