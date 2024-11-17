@@ -13,5 +13,6 @@ fun main() {
 }
 
 interface Vehicle {
+
     fun drive()
 }
