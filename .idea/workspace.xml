@@ -64,16 +64,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/IdeaProjects/skillsKotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExKt">
+  <component name="RunManager" selected="Kotlin.RunIfTrueKt">
     <configuration name="App1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classes.App1Kt" />
-      <module name="skillsKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculadoraKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection.CalculadoraKt" />
       <module name="skillsKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunIfTrueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.RunIfTrueKt" />
+      <module name="skillsKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RunIfTrueKt" />
         <item itemvalue="Kotlin.ExKt" />
         <item itemvalue="Kotlin.App1Kt" />
         <item itemvalue="Kotlin.ExAccessKt" />
         <item itemvalue="Kotlin.MonthKt" />
-        <item itemvalue="Kotlin.CalculadoraKt" />
       </list>
     </recent_temporary>
   </component>
