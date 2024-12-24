@@ -1,4 +1,4 @@
-package collections
+package colecoesDeDados
 
 fun main() {
 

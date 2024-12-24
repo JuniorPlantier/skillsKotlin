@@ -1,4 +1,4 @@
-package collections
+package colecoesDeDados
 
 fun main() {
     val s = sortedSetOf(Comparator.naturalOrder(), 1, 3, 8, 6, 2, 0, 4, 9, 5, 7)

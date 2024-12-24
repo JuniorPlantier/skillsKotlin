@@ -1,4 +1,4 @@
-package collections
+package colecoesDeDados
 
 /*
 Arrays, é uma classe do java utils com utilitarios para trabalhar com array.
