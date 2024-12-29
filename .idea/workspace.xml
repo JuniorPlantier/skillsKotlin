@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea5b5a6-a135-4604-9769-1912196120e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/Array1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/Array1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/Array2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/Array2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/ArrayVarargs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/ArrayVarargs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/ConvertCollections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/ConvertCollections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/Map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/Map.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/Set.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/Set.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/SortedSet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/SortedSet.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collections/hashCodeAndEquals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/hashCodeAndEquals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/colecoesDeDados/Exer01.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,23 +65,23 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/IdeaProjects/skillsKotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Set2Kt">
-    <configuration name="App1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.App1Kt" />
-      <module name="skillsKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExAccessKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.ExAccessKt" />
-      <module name="skillsKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ExerKt">
     <configuration name="ExKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classes.ExKt" />
+      <module name="skillsKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoesDeDados.expressoesLambdas.ExerKt" />
+      <module name="skillsKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterExpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoesDeDados.expressoesLambdas.FilterExpKt" />
       <module name="skillsKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExerKt" />
+        <item itemvalue="Kotlin.FilterExpKt" />
         <item itemvalue="Kotlin.Set2Kt" />
         <item itemvalue="Kotlin.RunIfTrueKt" />
         <item itemvalue="Kotlin.ExKt" />
-        <item itemvalue="Kotlin.App1Kt" />
-        <item itemvalue="Kotlin.ExAccessKt" />
       </list>
     </recent_temporary>
   </component>

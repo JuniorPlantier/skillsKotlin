@@ -1,9 +1,0 @@
-package colecoesDeDados
-
-/*
-
- */
-
-fun main() {
-
-}
